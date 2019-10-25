@@ -1,0 +1,1 @@
+# ethereum-classic-adapter-master
